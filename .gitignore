@@ -1,6 +1,6 @@
 *.classpath
 *.project
-pom.xml
+*.xml
 .idea/*
 *.iml
 .DS_Store
