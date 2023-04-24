@@ -50,8 +50,10 @@ public class BuildCommand implements CommandExecutor {
                     sender.sendMessage(Main.prefix + ChatColor.DARK_RED + args[0] + ChatColor.RED + " ist kein gültiger Spieler.");
                 }
             } else { // Wenn es mehr als ein Argument gibt
-                sender.sendMessage(Main.prefix + ChatColor.RED + "Falsche Nutzung des Commands. Bitte nutze ihn so: /build [Spieler]");
+                sender.sendMessage(Main.prefix + ChatColor.RED + "Falsche Nutzung des Befehls. Bitte nutze ihn so: /build [Spieler]");
             }
+        } else {
+            sender.sendMessage(Main.prefix + ChatColor.RED + "Du hast nicht genügend Rechte um diesem Befehl auszuführen.");
         }
 
         return true;
