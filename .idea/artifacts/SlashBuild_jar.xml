@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SlashBuild:jar">
+    <output-path>$PROJECT_DIR$/../../Server/plugins</output-path>
+    <root id="archive" name="SlashBuild.jar">
+      <element id="module-output" name="SlashBuild" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../MCdev/Plugins/Dependencies/spigot-api-1.19.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

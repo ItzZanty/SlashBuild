@@ -1,0 +1,9 @@
+name: SlashBuild
+description: Plug-and-play plugin for Minecraft Spigot. Use /build to gain access to modifying the world.
+version: '1.0.0'
+main: org.itzzanty.slashbuild.Main
+api-version: 1.19
+commands:
+  build:
+    description: Toggle Build-Mode to modify the world
+    alias: b
