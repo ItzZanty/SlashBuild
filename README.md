@@ -1,2 +1,2 @@
 # SlashBuild
- Plug-and-play plugin for Minecraft Spigot. Use /build to gain access to modifying the world.
+Plug-and-play Plugin für Minecraft Spigot. Nutze /build um die Welt zu modifizieren!
