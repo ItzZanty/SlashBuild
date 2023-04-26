@@ -6,4 +6,4 @@ Das ganze Projekt wurde kommentiert, sodass es leicht verständlich ist.
 
 ## Rechte
 Um Rechte auf den /build Befehl zu erhalten braucht ein Spieler folgende Berechtigung:
-> slashbuild.build
+* slashbuild.build
