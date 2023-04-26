@@ -14,4 +14,4 @@ Um nun Bauberechtigung zu erhalten, kann ein Spieler **/build** ausführen. So e
 Ein Spieler kann aber auch **/build [Spieler]** eingeben, um einem anderen Spieler Bauberechtigung zu geben.
 
 ## Credits
-Das ganze Projekt wurde von ItzZanty zusammengestellt.
+Das ganze Projekt wurde von **ItzZanty** zusammengestellt.
